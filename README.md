@@ -15,7 +15,7 @@ Développeurs web de A à Z :
 - *Gaëlle Gaban* [Profil GitHub](https://github.com/Gaellga)  
   ("Who we are..." + "Our team...")
 - *Audrey Kremers* [Profil GitHub](https://github.com/AudreyKremers)  
-  ("Need an event ?")
+  ("Need an event ?" formulaire)
 - *Caterina Mennito* [Profil GitHub](https://github.com/caterinamennito)  
   ("Our events" + Footer)
  
